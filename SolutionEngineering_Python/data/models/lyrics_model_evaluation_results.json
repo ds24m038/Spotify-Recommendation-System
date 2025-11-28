@@ -1,0 +1,16 @@
+{
+  "evaluation_date": "2025-06-27T12:00:36.710323",
+  "models_trained": [
+    "knn_cosine",
+    "knn_euclidean",
+    "svd_knn",
+    "knn_cosine_k20"
+  ],
+  "best_model": "knn_cosine",
+  "dataset_info": {
+    "total_songs_with_lyrics": 84706,
+    "training_size": 67764,
+    "validation_size": 16942,
+    "vocabulary_size": 5000
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model_type": "knn_cosine_k20",
+  "model_params": {
+    "n_neighbors": 20,
+    "metric": "cosine",
+    "algorithm": "brute"
+  },
+  "description": "KNN with cosine similarity (k=20)",
+  "sklearn_version": "1.5.1",
+  "has_svd": false,
+  "created_at": "2025-06-27T12:00:20.230859"
+}

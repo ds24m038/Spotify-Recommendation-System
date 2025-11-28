@@ -1,0 +1,11 @@
+{
+  "model_type": "svd_knn",
+  "model_params": {
+    "n_components": 100,
+    "n_neighbors": 50
+  },
+  "description": "SVD dimensionality reduction + KNN",
+  "sklearn_version": "1.5.1",
+  "has_svd": true,
+  "created_at": "2025-06-27T12:00:19.413458"
+}

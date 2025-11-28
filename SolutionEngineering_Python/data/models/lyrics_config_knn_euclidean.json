@@ -1,0 +1,12 @@
+{
+  "model_type": "knn_euclidean",
+  "model_params": {
+    "n_neighbors": 50,
+    "metric": "euclidean",
+    "algorithm": "auto"
+  },
+  "description": "KNN with euclidean distance",
+  "sklearn_version": "1.5.1",
+  "has_svd": false,
+  "created_at": "2025-06-27T11:59:55.681644"
+}
